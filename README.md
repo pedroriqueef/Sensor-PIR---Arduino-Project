@@ -15,7 +15,7 @@ Este projeto foi desenvolvido com o objetivo de adicionar uma camada de seguran�
 
 ## Esquema Elétrico
 
-O esquema elétrico do projeto pode ser encontrado na pasta `/Esquema elétrico`.
+O esquema elétrico do projeto pode ser encontrado na pasta `/Diagrama elétrico`.
 
 ## Montagem
 
