@@ -26,7 +26,7 @@ O esquema elétrico do projeto pode ser encontrado na pasta [/Diagrama elétrico
 
 ## Código
 
-O código fonte para o Arduino está localizado na pasta `/Firmware`. Você pode carregar o arquivo `codigoFinal.ino` para o seu Arduino utilizando a IDE do Arduino.
+O código fonte para o Arduino está localizado na pasta [/Firmware](https://github.com/pedroriqueef/Sensor-PIR---Arduino-Project/tree/5cbd04609671c0e5f808a2f2122a037b217a4561/Firmware). Você pode carregar o arquivo [codigoFinal.ino](https://github.com/pedroriqueef/Sensor-PIR---Arduino-Project/blob/5cbd04609671c0e5f808a2f2122a037b217a4561/Firmware/codigoFinal.ino)` para o seu Arduino utilizando a IDE do Arduino.
 
 Como Usar
 - Carregue o código no Arduino utilizando a IDE do Arduino.
