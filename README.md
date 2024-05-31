@@ -15,7 +15,7 @@ Este projeto foi desenvolvido com o objetivo de adicionar uma camada de seguran�
 
 ## Esquema Elétrico
 
-O esquema elétrico do projeto pode ser encontrado na pasta `/Diagrama elétrico` (https://github.com/pedroriqueef/Sensor-PIR---Arduino-Project/tree/e2974885758f560c0f41d3c95e4e468e8b832f92/Diagrama%20el%C3%A9trico).
+O esquema elétrico do projeto pode ser encontrado na pasta [/Diagrama elétrico](https://github.com/pedroriqueef/Sensor-PIR---Arduino-Project/tree/e2974885758f560c0f41d3c95e4e468e8b832f92/Diagrama%20el%C3%A9trico).
 
 ## Montagem
 
