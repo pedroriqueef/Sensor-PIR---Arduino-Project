@@ -17,7 +17,7 @@ void loop() {
   // leitura do sensor
   int leitura = digitalRead(PIR);
   Serial.println(leitura);
-  delay(100); // delay 100ms para estabilizar sinal de leitura
+  delay(100); 
   
   // verifica se leitura está em nivel alto
   if (leitura == HIGH) {
@@ -26,7 +26,7 @@ void loop() {
     digitalWrite(led3, HIGH);
     
     // Som de alarme alternando frequências
-    for (int i = 0; i < 10; i++) { // Ajuste o número de iterações conforme necessário
+    for (int i = 0; i < 10; i++) {
       tone(buzzer, 1000); // Frequência de 1000 Hz
       delay(500); // 500 ms
       tone(buzzer, 500); // Frequência de 500 Hz
