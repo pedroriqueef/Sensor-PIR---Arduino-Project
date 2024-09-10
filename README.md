@@ -35,13 +35,6 @@ Como Usar
 - Coloque o sensor PIR em um local estratégico onde possa detectar movimento na área desejada.
 - Quando o sensor PIR detectar movimento, os LEDs e o buzzer serão acionados, simulando um sistema de alarme.
 
-## Relatório
-O relatório com as evidências da apresentação do projeto à parte interessada está localizado na pasta [Relatório](https://github.com/pedroriqueef/Sensor-PIR---Arduino-Project/tree/48fa4bce5f3ee3140b637592b75701d7bea7a139/Relat%C3%B3rio). No relatório, você encontrará:
-
-- Link para o vídeo da apresentação
-- Fotos do projeto com a parte interessada
-- Relato sobre as impressões do projeto
-
 Contribuição
 Contribuições são bem-vindas! 
 Se você tiver sugestões, melhorias ou quiser relatar problemas, por favor, abra uma issue ou envie um pull request.
